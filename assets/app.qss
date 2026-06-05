@@ -1,0 +1,20 @@
+QLineEdit, QDateEdit, QPlainTextEdit, QTextEdit {
+    background: #FFFFFF;
+    color: #0D1B2A;
+    selection-background-color: #1976D2;
+    selection-color: #FFFFFF;
+}
+
+QCheckBox {
+    color: #0D1B2A;
+}
+
+QLineEdit[validationError="true"], QDateEdit[validationError="true"] {
+    border: 2px solid #D92D20;
+    background: #FFF5F5;
+}
+
+QCheckBox[validationError="true"] {
+    color: #D92D20;
+    font-weight: 700;
+}
