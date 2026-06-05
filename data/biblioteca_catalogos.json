@@ -1,0 +1,48 @@
+{
+  "fichas_tecnicas": {
+    "button_label": "FICHAS TÉCNICAS",
+    "title": "Fichas técnicas",
+    "items": [
+      {
+        "label": "CrediEducativo",
+        "html": "FIC-GC-2025_01.html"
+      },
+      {
+        "label": "Microcrédito Individual",
+        "html": "FIC-MC-01.html"
+      },
+      {
+        "label": "Ahorros",
+        "html": "FIC-AH-01.html"
+      },
+      {
+        "label": "Crédi-Vehiculos",
+        "html": "FIC-VH-01.html"
+      },
+      {
+        "label": "Créditos",
+        "html": "FIC-CR-01.html"
+      }
+    ]
+  },
+  "procedimientos": {
+    "button_label": "PROCEDIMIENTOS",
+    "title": "Procedimientos",
+    "items": [
+      {
+        "label": "CrédiEducativo",
+        "html": "PRO-GC-2025-05.html"
+      }
+    ]
+  },
+  "proximamente": {
+    "button_label": "DOCS VARIOS",
+    "title": "Documentos Varios",
+    "items": [
+      {
+        "label": "Manual del Usuario - Formatos Operativos",
+        "html": "INS.html"
+      }
+    ]
+  }
+}
